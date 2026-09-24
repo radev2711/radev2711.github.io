@@ -1,0 +1,19 @@
+html {background-color: #6495ED;}
+
+hr {color: #FFD700;}
+
+article {
+    height: fit-content;
+    width: 60%;
+    margin: 0 auto;
+}
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
