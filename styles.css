@@ -6,12 +6,18 @@ hr {color: #FFBF00;}
 
 article {
     height: fit-content;
-    width: 60%;
+    width: 75%;
     margin: 0 auto;
 }
 p {
     font-size: 18px;
     text-align: justify;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1rem;
+    border-color: #FFD700;
+    padding: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .center {
